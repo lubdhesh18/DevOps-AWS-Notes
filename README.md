@@ -19,8 +19,7 @@ This repository is designed to guide you from foundational concepts to advanced 
 #### Linux, Docker, AWS, DevOps, Maven notes, Sonarqube, Shell-Scripting, Git, Jenkins.
 
 ## 🚀 Getting Started
-1. Clone the repository: bash
-   git clone https://github.com
+1. Clone/Fork the repository.
 2. Navigate to your topic of choice.
 3. Open the .pdf files to start learning or review the DevOps Assignment.pdf for hands-on challenges.
 
