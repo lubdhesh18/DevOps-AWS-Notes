@@ -23,5 +23,5 @@ This repository is designed to guide you from foundational concepts to advanced 
 2. Navigate to your topic of choice.
 3. Open the .pdf files to start learning or review the DevOps Assignment.pdf for hands-on challenges.
 
-## 🧑‍💻 Owner & Maintainer
+## 🧑‍💻 Maintainer
 ### Lubdhesh Rathor (@lubdhesh18)
