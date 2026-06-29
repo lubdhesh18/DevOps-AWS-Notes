@@ -3,7 +3,7 @@
 I created this space to host my comprehensive, structured study notes and solved practical assignments covering industry-standard DevOps tools and AWS cloud services.
 
 ## 📌 Repository Overview
-This repository is designed to guide you from foundational concepts to advanced implementation of DevOps methodologies. It includes deep-dives into infrastructure, CI/CD pipelines, automation scripts, and cloud architecture.
+This repository is designed to guide you from foundational concepts to advanced implementation of DevOps methodologies. It includes deep dives into infrastructure, CI/CD pipelines, automation scripts, and cloud architecture.
 
 ## 📂 Directory Structure & Topics Covered
 ### Each directory contains my dedicated .pdf notes and practical assignment solutions:
@@ -16,7 +16,7 @@ This repository is designed to guide you from foundational concepts to advanced 
 - 🔍 SonarQube: Code quality gates, static application security testing (SAST), and code coverage metrics.
 
 ## 🛠️ Tech Stack & Keywords
-linux docker aws devops maven notes sonarqube shellscripting git jenkins
+#### Linux, Docker, AWS, DevOps, Maven notes, Sonarqube, Shell-Scripting, Git, Jenkins.
 
 ## 🚀 Getting Started
 1. Clone the repository: bash
